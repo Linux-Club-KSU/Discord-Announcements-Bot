@@ -2,7 +2,11 @@
 Bot for the website
 
 ## Setup and run
-` ./run.sh ` 
+
+
+## Example of if url to use 
+`http://127.0.0.1:8000/discord?channel_id=CHANNEL_ID_HERE`
+
 
 ## goal's
  - postgress sql database
